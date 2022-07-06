@@ -1,12 +1,12 @@
 body {
-   
+    background-color: #fff;
     min-height: 100vh;
     font: normal 16px sans-serif;
     padding: 10px 0;
 }
 
 .container.gallery-container {
- 
+    background-color: #fff;
     color: #1d1f2f;
     min-height: 100vh;
     border-radius: 20px;
