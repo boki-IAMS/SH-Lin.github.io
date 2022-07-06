@@ -7,10 +7,10 @@ body {
 
 .container.gallery-container {
     background-color: #fff;
-    color: #292b39;
+    color: #1d1f2f;
     min-height: 100vh;
     border-radius: 20px;
-    width: 100%;
+    width: 90%;
 }
 
 .gallery-container h3 {
