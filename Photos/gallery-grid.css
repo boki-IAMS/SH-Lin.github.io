@@ -13,12 +13,6 @@ body {
     width: 100%;
 }
 
-.gallery-container h3 {
-    text-align: center;
-    margin-top: 15px;
-    font-family: 'Droid Sans', sans-serif;
-    font-weight: bold;
-}
 .caption p{
     text-align: center;
     padding-bottom: 20px;
