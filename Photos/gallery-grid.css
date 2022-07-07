@@ -4,7 +4,6 @@ body {
     font: normal 16px sans-serif;
     padding: 10px 0;
 }
-
 .container.gallery-container {
     background-color: rgba(255, 255, 255, 0);
     color: #1d1f2f;
@@ -64,4 +63,3 @@ body {
   display: none; /* Chrome Safari */
 } */
 
-  
